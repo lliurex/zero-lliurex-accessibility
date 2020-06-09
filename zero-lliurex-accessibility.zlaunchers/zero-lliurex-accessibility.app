@@ -1,0 +1,13 @@
+Name=zero-lliurex-accessibility
+Name[es]=Herramientas de accesibilidad 
+Name[ca_ES]=Eines d'accesibilitat
+Comment=Accessibility tools
+Comment[es]=Conjunto de herramientas enfocadas a la accesibilidad
+Comment[ca_ES]=Conjunt d'eines enfocades a l'accessibilitat
+Icon=zero-lliurex-accessibility
+Category=Software
+ScriptPath=zero-lliurex-accessibiity.zmd
+Groups=sudo;admin;admins;teachers
+Using=pkexec
+Service=True
+Modal=True
