@@ -7,7 +7,7 @@ case $ACTION in
 
 	remove)
 		errpkg=''
-		for pkg in libbrlapi0.6 python3-brlapi xbrlapi brltty-x11 brltty libbrlapi0.7 orca
+		for pkg in python3-brlapi xbrlapi brltty-x11 brltty libbrlapi0.7 orca
 		do
 			apt-get remove -y $pkg
 			TEST=$( dpkg-query -s $pkg 2> /dev/null| grep Status | cut -d " " -f 4 )
