@@ -1,7 +1,6 @@
 {
 	"type":"apt",
 	"pkg_list": [{"name":"libbrlapi0.6","key_store":"zero-lliurex-accessibility"},{"name":"python3-brlapi","key_store":"zero-lliurex-accessibility"},{"name":"xbrlapi","key_store":"zero-lliurex-accessibility"},{"name":"brltty-x11","key_store":"zero-lliurex-accessibility"},{"name":"brltty","key_store":"zero-lliurex-accessibility"},{"name":"brltty-x11","key_store":"zero-lliurex-accessibility"},{"name":"libbrlapi0.7","key_store":"zero-lliurex-accessibility"},{"name":"orca","key_store":"zero-lliurex-accessibility"}], 
-	"script":{"name":"/usr/share/zero-lliurex-accessibility/accessibility_script","remove":true,"getStatus":true},
-	"required_root":true,
+	"script":{"name":"/usr/share/zero-lliurex-accessibility/accessibility_script","remove":true},
 	"zomando": "zero-lliurex-accessibility"
 }
