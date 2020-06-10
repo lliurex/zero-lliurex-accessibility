@@ -1,3 +1,9 @@
+zero-lliurex-accessibility (0.2) bionic; urgency=medium
+
+  * Fix epi install 
+
+ -- Juanma Navarro Mañez <juanma1980@gmail.com>  Wed, 10 Jun 2020 12:52:47 +0200
+
 zero-lliurex-accessibility (0.1) bionic; urgency=medium
 
    Initial release.
