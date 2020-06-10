@@ -6,7 +6,7 @@ Uploaders: M.Angel Juan <m.angel.juan@gmail.com>, Raul Rodrigo Segura <lliurex_d
 Build-Depends: debhelper (>= 10), zero-dev, llxsrchelper,python3-poinstaller
 Standards-Version: 4.1.2
 
-Package: zero-lliurex-accesibility
+Package: zero-lliurex-accessibility
 Architecture: all
 Depends: ${misc:Depends}, epi-gtk, zero-center
 Description: Accesibility software
