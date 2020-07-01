@@ -6,5 +6,5 @@ if [ -e /sbin/prime-offload ]; then
     /sbin/prime-offload
 fi
 
-xbrlapi -q
-orca 
+[ -x /usr/bin/xbrlapi ] && /usr/bin/xbrlapi -q &
+[ -x /usr/bin/orca ] && orca &
