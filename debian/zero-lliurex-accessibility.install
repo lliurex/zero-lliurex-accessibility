@@ -1,1 +1,3 @@
-zero-lliurex-accessibility.install-files/* /usr/share/zero-lliurex-accessibility
+zero-lliurex-accessibility.install-files/zero-lliurex-accessibility/* /usr/share/zero-lliurex-accessibility
+zero-lliurex-accessibility.install-files/sddm/scripts/* /usr/share/sddm/scripts
+zero-lliurex-accessibility.install-files/sddm/sddm.conf/* /usr/lib/sddm/sddm.conf.d
