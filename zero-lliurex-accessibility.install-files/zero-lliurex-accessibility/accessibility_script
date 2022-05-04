@@ -3,7 +3,20 @@
 
 ACTION="$1"
 
+shift
+
+PACKAGE_LIST=$@
+
 case $ACTION in
+	preInstall)
+
+			if [[ " ${PACKAGE_LIST[*]} " == *" brltty "* ]]; then
+				echo " * * Start Pre-Installing brltty * * "
+				apt update
+				apt install brltty-x11 libbrlapi0.8 python3-brlapi xbrlapi -y
+				echo " * * Pre-Installed brltty * * "
+			fi
+	;;	
 
 	remove)
 		errpkg=''
@@ -19,6 +32,6 @@ case $ACTION in
 		then
 			exit 1
 		fi
-	;;	
+	;;
 esac
 
