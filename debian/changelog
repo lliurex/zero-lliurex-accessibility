@@ -1,3 +1,9 @@
+zero-lliurex-accessibility (0.5) focal; urgency=medium
+
+  * Enable multiselect
+
+ -- Juanma1980 <juanma1980@gmail.com>  Wed, 04 May 2022 19:43:01 +0200
+
 zero-lliurex-accessibility (0.4) focal; urgency=medium
 
   * Added deskcreen and accesshelper
