@@ -1,6 +1,6 @@
 {
 	"type":"apt",
-	"pkg_list": [{"name":"accesshelper","key_store":"zero-lliurex-accessibility"},{"name":"deskreen","key_store":"zero-lliurex-accessibility"},{"name":"brltty","key_store":"zero-lliurex-accessibility"},{"name":"orca","key_store":"zero-lliurex-accessibility"}], 
+	"pkg_list": [{"name":"accesshelper","key_store":"zero-lliurex-accessibility"},{"name":"deskreen","key_store":"zero-lliurex-accessibility"},{"name":"brltty","key_store":"zero-lliurex-accessibility"},{"name":"orca","key_store":"zero-lliurex-accessibility"},{"name":"fonts-atkinson","key_store":"zero-lliurex-accessibility"},{"name":"ttf-mscorefonts-installer","key_store":"zero-lliurex-accessibility"}], 
 	"script":{"name":"/usr/share/zero-lliurex-accessibility/accessibility_script","remove":true},
 	"zomando": "zero-lliurex-accessibility",
 	"selection_enabled":{"active":true,"all_selected":false}
