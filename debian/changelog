@@ -1,3 +1,9 @@
+zero-lliurex-accessibility (0.5.2) focal; urgency=medium
+
+  * Add ubuntu repositories for ms-corefonts
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 22 Sep 2022 11:19:00 +0200
+
 zero-lliurex-accessibility (0.5.1) focal; urgency=medium
 
   * Enable multiselect
