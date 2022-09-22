@@ -1,6 +1,7 @@
 {
 	"type":"apt",
 	"pkg_list": [{"name":"accesshelper","key_store":"zero-lliurex-accessibility"},{"name":"deskreen","key_store":"zero-lliurex-accessibility"},{"name":"brltty","key_store":"zero-lliurex-accessibility"},{"name":"orca","key_store":"zero-lliurex-accessibility"},{"name":"fonts-atkinson","key_store":"zero-lliurex-accessibility"},{"name":"ttf-mscorefonts-installer","key_store":"zero-lliurex-accessibility"}], 
+	"repository": [{"url":"deb http://archive.ubuntu.com/ubuntu/ focal main multiverse restricted universe"},{"url":"deb http://archive.ubuntu.com/ubuntu/ focal-updates main multiverse restricted universe"}], 
 	"script":{"name":"/usr/share/zero-lliurex-accessibility/accessibility_script","remove":true},
 	"zomando": "zero-lliurex-accessibility",
 	"selection_enabled":{"active":true,"all_selected":false}
