@@ -1,4 +1,4 @@
-zero-lliurex-accessibility (0.5.2) focal; urgency=medium
+zero-lliurex-accessibility (0.5.3) focal; urgency=medium
 
   * Add ubuntu repositories for ms-corefonts
   * Let students group install accesshelper
