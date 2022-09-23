@@ -1,6 +1,7 @@
 zero-lliurex-accessibility (0.5.2) focal; urgency=medium
 
   * Add ubuntu repositories for ms-corefonts
+  * Let students group install accesshelper
 
  -- Juanma1980 <juanma1980@gmail.com>  Thu, 22 Sep 2022 11:19:00 +0200
 
