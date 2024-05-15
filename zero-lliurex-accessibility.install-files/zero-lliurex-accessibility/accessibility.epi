@@ -3,7 +3,7 @@
 	"pkg_list": [
 		{"name":"accesswizard",
 		"key_store":"zero-lliurex-accessibility",
-		"custom_icon":"accesswizard.svg",
+		"custom_icon":"accesswizard.png",
 		"custom_name":"AccessWizard - Tools for accessibility"},
 		{"name":"deskreen",
 		"key_store":"zero-lliurex-accessibility",
