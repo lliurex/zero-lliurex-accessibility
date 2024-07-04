@@ -11,7 +11,7 @@
 		"custom_name":"AntiMicroX - Joystick as mouse"},
 		{"name":"eviacam",
 		"key_store":"zero-lliurex-accessibility",
-		"custom_icon":"evicam.png",
+		"custom_icon":"eviacam.png",
 		"custom_name":"EviaCam - Webcam based mouse control"},
 		{"name":"deskreen",
 		"key_store":"zero-lliurex-accessibility",
