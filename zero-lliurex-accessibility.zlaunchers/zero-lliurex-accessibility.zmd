@@ -1,5 +1,5 @@
 #!/bin/bash
 
-epi-gtk /usr/share/zero-lliurex-accessibility/accessibility.epi
+epi-gtk /usr/share/zero-lliurex-accessibility/accessibility.epi $1
 
 exit 0
