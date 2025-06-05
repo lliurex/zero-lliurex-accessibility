@@ -1,3 +1,9 @@
+zero-lliurex-accessibility (0.5.6-0lliurex25) noble; urgency=medium
+
+  * Add parm for single package selection
+
+ -- Juanma1980 <juanma1980@gmail.com>  Thu, 05 Jun 2025 10:44:23 +0200
+
 zero-lliurex-accessibility (0.5.5-0lliurex25) noble; urgency=medium
 
   * Noble release
